@@ -21,5 +21,5 @@ This project aims to recreate the visual design and layout of the Netflix home p
 - **Dynamic content:** Placeholder content is used to mimic Netflix's movie and TV show recommendations.
 - **CSS styling:** The stylesheets provide a sleek and modern look, resembling the Netflix branding.
 
-## 3. Preview:
+### Preview:
 ![image](https://github.com/Shaishta-Anjum/Bharat-Intern/blob/main/Netflix%20Page/Assets/Netflix%20Landing%20Page.png?raw=true)
